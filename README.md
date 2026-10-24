@@ -72,7 +72,7 @@ git push -u origin main
 4. **Source: Deploy from a branch** / **Branch: `main` / `(root)`** を選んで Save
 5. 数十秒〜数分で `https://high28hutaba.github.io/high28/` に公開されます
 
-> リポジトリ名を `<ユーザー名>.github.io` にすると `https://high28hutaba.github.io/` で表示されます。
+> リポジトリ名を `high28hutaba.github.io` にすると `https://high28hutaba.github.io/` で表示されます。
 
 ## 公開前に確認する場所
 
