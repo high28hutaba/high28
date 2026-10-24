@@ -81,8 +81,8 @@ git push -u origin main
 | 作品カード | `#works`。「少女A」「少女レイ」の2作品（YouTube / X）を設定済み |
 | Contactのリンク先 | `#contact` のボタン。`https://x.com/High28Hutaba`（XのDM） |
 | プロフィール本文・対応内容 | `#about` |
-| グループ紹介の文言・リンク | `#group`。リンク先が決まったら「グループを見る」のボタンを追加 |
-| OGP画像の絶対URL | `<head>` の `og:image` を `https://high28hutaba.github.io/high28/assets/img/og.jpg` に変更し、`og:url` を追加 |
+| グループ紹介の文言・リンク | `#group`。X は `https://x.com/daten_official`（設定済み） |
+| OGP | `<head>` に絶対URLで設定済み（`og:url` / `og:image` / `twitter:image`） |
 
 SNSリンク（X / YouTube / SoundCloud / Discord）は設定済みです。変更する場合は `#links` の各 `href` と、`<head>` の JSON-LD の `sameAs` も一緒に更新してください。
 
